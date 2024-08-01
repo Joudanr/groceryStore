@@ -1,5 +1,5 @@
 # groceryStore
-This repository contains a project designed to assist store owners in efficiently managing their inventory. The system facilitates easy updates to the item catalog and tracks incoming customer orders, improving overall store operations.
+a data structure project that designed to assist store owners in efficiently managing their inventory. The system facilitates easy updates to the item catalog and tracks incoming customer orders, improving overall store operations.
 
 ### Features
   - Item Management:
